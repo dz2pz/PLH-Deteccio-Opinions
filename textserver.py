@@ -19,7 +19,7 @@ class TextServer:
     self.request_data = {
       'username':user,
       'password':pwd,
-      'language': 'ca',
+      'language': 'en',
       'output': 'json',
       'interactive':'1' 
     }
